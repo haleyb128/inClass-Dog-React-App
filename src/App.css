@@ -1,0 +1,9 @@
+body{
+    background-image: url(./background.png);
+    background-attachment: fixed;
+    background-size:stretch;
+    font-size: 20px;
+}
+.container{
+
+}
